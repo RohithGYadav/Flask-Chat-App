@@ -17,19 +17,19 @@ A lightweight, real-time chat application built using **Flask**, **SocketIO**, *
 
 ## 📁 Project Structure
 
-flask_chat_app/
-│
-├── app/
-│ ├── init.py
-│ ├── routes/
-│ │ ├── api.py
-│ │ └── views.py
-│ ├── sockets/
-│ │ └── chat.py
-│ ├── templates/
-│ │ └── index.html
-│ └── static/
-│
-├── run.py
-├── requirements.txt
+flask_chat_app/ <br>
+│<br>
+├── app/<br>
+│ ├── init.py<br>
+│ ├── routes/<br>
+│ │ ├── api.py<br>
+│ │ └── views.py<br>
+│ ├── sockets/<br>
+│ │ └── chat.py<br>
+│ ├── templates/<br>
+│ │ └── index.html<br>
+│ └── static/<br>
+│<br>
+├── run.py<br>
+├── requirements.txt<br>
 └── README.md
